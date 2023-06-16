@@ -1,2 +1,1 @@
-# Portfolio-DevChallenges
-# edie-homepage
+# DOM-checkpoint
